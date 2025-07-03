@@ -1,7 +1,7 @@
 <!-- 欢迎动画 -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0DC01D&background=000000&center=true&vCenter=true&repeat=false&random=true&width=435&lines=%3CHello!+I'm+C_L1gh7%2F.%3E" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0DC01D&background=000000&center=true&vCenter=true&random=true&width=435&lines=%3CHello!+I'm+C_L1gh7%2F.%3E" alt="Typing SVG" />
   </a>
 </p>
 
