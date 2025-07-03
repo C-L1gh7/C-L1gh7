@@ -6,5 +6,5 @@
 
 ![C_L1gh7's GitHub stats](https://github-readme-stats.vercel.app/api?username=C-L1gh7&count_private=true&show_icons=true)
 
-You are my ![Visitor Count](https://profile-counter.glitch.me/C-L1gh7/count.svg) visitor, Thank you! :blush:
+### You are my ![Visitor Count](https://profile-counter.glitch.me/C-L1gh7/count.svg) visitor, Thank you! :blush:
 
