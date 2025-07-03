@@ -28,10 +28,3 @@
 <p align="center">
   <b>You are my <img src="https://profile-counter.glitch.me/C-L1gh7/count.svg" /> visitor</span>. Thank you! 😊</b>
 </p>
-
----
-
-<!-- 页脚 -->
-<p align="center">
-  <i>That's all, Thanks for watching ✨</i>
-</p>
